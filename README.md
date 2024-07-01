@@ -18,6 +18,10 @@ These instructions will help you get a copy of the project up and running on you
 - Android Studio: Ensure you have Android Studio installed on your computer.
 - Git: You'll need Git installed to clone the repository.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ### Installation
 
 1. Clone the repository:
